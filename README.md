@@ -1,7 +1,3 @@
-Here’s a structured **README** file for your Zomato restaurant analysis project repository:
-
----
-
 # Bengaluru Restaurant Analysis - Zomato Dataset
 
 ## Project Overview
