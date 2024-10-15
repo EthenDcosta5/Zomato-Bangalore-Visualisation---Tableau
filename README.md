@@ -85,7 +85,3 @@ The Tableau dashboard includes the following visualizations:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-This README structure covers all necessary sections to explain your project clearly to any potential viewers or collaborators!
