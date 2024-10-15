@@ -75,7 +75,7 @@ The Tableau dashboard includes the following visualizations:
    ```bash
    git clone https://github.com/EthenDcosta5/bengaluru-restaurant-analysis.git
    ```
-2. Open the Tableau workbook (`.twb` or `.twbx` file) to explore the visualizations.(Use the above link to access the file)[Dataset](#Dataset)
+2. Open the Tableau workbook (`.twb` or `.twbx` file) to explore the visualizations.[Dataset](#Dataset)
 
 
 ## Future Improvements
